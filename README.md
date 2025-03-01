@@ -1,8 +1,10 @@
-# browser-agent
+# Browser Agent
 
-Basic AI agent which uses your browser to execute instructions
+A simple AI agent that uses your browser to execute instructions.
 
-## Instructions to setup
+Tech Stack: Google Gemini, Browser-use, PlayWright
+
+## Setup
 
 1. `python -m venv agent_venv`
 2. `source agent_venv/bin/activate`
