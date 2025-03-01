@@ -1,0 +1,7 @@
+browser-use
+playwright
+langchain-google-genai
+langchain-ollama
+asyncio
+python-dotenv
+streamlit
